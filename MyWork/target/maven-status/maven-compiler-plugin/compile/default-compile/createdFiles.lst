@@ -1,0 +1,9 @@
+com\mywork\model\Employee.class
+com\mywork\service\ManagerService.class
+com\mywork\dao\ManagerDAO.class
+com\mywork\model\Timesheet.class
+com\mywork\test\TestManagerDao.class
+com\mywork\constant\WorkException.class
+com\mywork\config\JpaConfig.class
+com\mywork\constant\Constants.class
+com\mywork\model\Manager.class
